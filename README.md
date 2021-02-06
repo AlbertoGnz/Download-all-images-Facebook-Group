@@ -1,5 +1,6 @@
 # Download-all-images-Facebook-Group
 Download all images posted in a Facebook group
+Make sure that selenium is on the path.
 
 # How to 
 Edit url to facebook group pointing the first image.
